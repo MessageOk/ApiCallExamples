@@ -1,0 +1,8 @@
+{
+  "body": "MessageOK API Test",
+  "to": [
+    {
+      "phone_number": "420606999999"
+    }
+  ]
+}
