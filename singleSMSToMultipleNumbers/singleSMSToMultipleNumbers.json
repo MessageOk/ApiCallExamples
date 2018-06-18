@@ -1,0 +1,14 @@
+{
+  "body": "MessageOK API Test - multiple number",
+  "to": [
+    {
+      "phone_number": "777884070"
+    },
+    {
+      "phone_number": "606310239"
+    },
+    {
+      "phone_number": "723857485"
+    }
+  ]
+}
